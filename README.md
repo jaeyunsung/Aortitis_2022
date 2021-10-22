@@ -14,7 +14,9 @@ Corresponding Author : sung.jaeyun@mayo.edu
 #### Differentially expressed genes and volcano plot
 
 >analysis_with3Meta/gene_set/01_run_deseq_multi_level.sh
+
 >analysis_with3Meta/gene_set/02_geneset.sh
+
 >analysis_with3Meta/gene_set/03_draw_vocano.sh
 
 Note: DESeq2 (v1.26.0) was used during the analysis. Please note that we identified different DEG results compared to (v1.30)
@@ -22,5 +24,17 @@ Note: DESeq2 (v1.26.0) was used during the analysis. Please note that we identif
 #### Pharmacogenomic network construction
 
 >analysis_with3Meta/network/01_run.sh
+
 >analysis_with3Meta/network/02_parse_subnetwork.sh
->analysis_with3Meta/network/03_create_deg_disease_topology.sh
+
+>analysis_with3Meta/network/03_create_pharmacogenomic_network.sh
+
+### Data
+
+Read counts of 50 samples and 26,475 genes with STAR alignment
+
+>data/aortitis.tsv
+
+log2 transformed TPM values of 50 samples and 26,475 genes with RSEM
+
+>data/tpm_profile.log2.tsv
