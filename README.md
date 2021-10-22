@@ -29,7 +29,19 @@ Note: DESeq2 (v1.26.0) was used during the analysis. Please note that we identif
 
 >analysis_with3Meta/network/03_create_pharmacogenomic_network.sh
 
-### Data
+#### Others
+
+PCA
+>src/statistics/PCA_whole_data.ipynb
+
+Identification of confounding effects
+>src/statistics/linear_model_variable_significance.ipynb
+
+Pie chart for PANTHER results
+>src/statistics/panther_pie_chart.ipynb
+
+
+#### Data
 
 Read counts of 50 samples and 26,475 genes with STAR alignment
 
