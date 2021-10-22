@@ -40,6 +40,9 @@ Identification of confounding effects
 Pie chart for PANTHER results
 >src/statistics/panther_pie_chart.ipynb
 
+trimming the fastq files and alignment
+>/Users/m221138/Aortitis_Public/preprocess/01_trim_rawdata.sh
+>/Users/m221138/Aortitis_Public/preprocess/02_run_alignmnet.sh
 
 #### Data
 
@@ -50,3 +53,5 @@ Read counts of 50 samples and 26,475 genes with STAR alignment
 log2 transformed TPM values of 50 samples and 26,475 genes with RSEM
 
 >data/tpm_profile.log2.tsv
+
+Raw data (.fastq) files are available upon request.
