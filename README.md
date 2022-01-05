@@ -19,7 +19,7 @@ Corresponding Author: sung.jaeyun@mayo.edu
 
 >analysis_with3Meta/gene_set/03_draw_vocano.sh
 
-Note: DESeq2 (v1.26.0) was used during the analysis. Please note that we identified different DEG results compared to (v1.30)
+Note: DESeq2 (v1.26.0) was used during the analysis. Please note that we identified different differentially expressed gene (DEG) results compared to (v1.30)
 
 #### Pharmacogenomic network construction
 
