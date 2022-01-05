@@ -54,4 +54,4 @@ log2 transformed TPM values of 50 samples and 26,475 genes with RSEM
 
 >data/tpm_profile.log2.tsv
 
-Raw data (.fastq) files are available upon request.
+Raw data (.fastq) files will be available once the manuscript has been accepted.
