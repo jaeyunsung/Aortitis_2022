@@ -8,7 +8,7 @@ Benjamin Hur, Matthew J. Koster, Jin Sung Jang, Cornelia M. Weyand, Kenneth J. W
 Contact: hur.benjamin@mayo.edu
 Corresponding Author : sung.jaeyun@mayo.edu
 
-## Analysis associated to inflammatory vs. non-inflammatory aortic aneurysms.
+## Analysis associated with inflammatory and non-inflammatory aortic aneurysms.
 
 
 #### Differentially expressed genes and volcano plot
