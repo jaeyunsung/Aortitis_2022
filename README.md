@@ -6,9 +6,9 @@ DOI : TBD
 Benjamin Hur, Matthew J. Koster, Jin Sung Jang, Cornelia M. Weyand, Kenneth J. Warrington, and Jaeyun Sung
 
 Contact: hur.benjamin@mayo.edu
-Corresponding Author : sung.jaeyun@mayo.edu
+Corresponding Author: sung.jaeyun@mayo.edu
 
-## Analysis associated with inflammatory and non-inflammatory aortic aneurysms.
+## Analysis associated with inflammatory and non-inflammatory aortic aneurysms:
 
 
 #### Differentially expressed genes and volcano plot
@@ -29,7 +29,7 @@ Note: DESeq2 (v1.26.0) was used during the analysis. Please note that we identif
 
 >analysis_with3Meta/network/03_create_pharmacogenomic_network.sh
 
-#### Others
+#### Other analyses
 
 PCA
 >src/statistics/PCA_whole_data.ipynb
