@@ -11,7 +11,7 @@ Corresponding Author: sung.jaeyun@mayo.edu
 ## Analysis associated with inflammatory and non-inflammatory aortic aneurysms:
 
 
-#### Differentially expressed genes and volcano plot
+#### Differentially expressed genes (DEGs) and volcano plot
 
 >analysis_with3Meta/gene_set/01_run_deseq_multi_level.sh
 
@@ -19,7 +19,7 @@ Corresponding Author: sung.jaeyun@mayo.edu
 
 >analysis_with3Meta/gene_set/03_draw_vocano.sh
 
-Note: DESeq2 (v1.26.0) was used during the analysis. Please note that we identified different differentially expressed gene (DEG) results compared to (v1.30)
+Note: DESeq2 v1.26.0 was used during the analysis. Please note that DEG results can vary depending on the DESeq2 version.
 
 #### Pharmacogenomic network construction
 
