@@ -3,7 +3,7 @@ Global Transcriptomic Profiling Identifies Differential Gene expression Signatur
 
 DOI : TBD
 
-Benjamin Hur, Matthew J. Koster, Jin Sung Jang, Cornelia M. Weyand, Kenneth J. Warrington, and Jaeyun Sung
+Authors: Benjamin Hur, Matthew J. Koster, Jin Sung Jang, Cornelia M. Weyand, Kenneth J. Warrington, and Jaeyun Sung
 
 Contact: hur.benjamin@mayo.edu
 Corresponding Author: sung.jaeyun@mayo.edu
