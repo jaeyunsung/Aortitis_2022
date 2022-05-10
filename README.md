@@ -1,7 +1,7 @@
 Global Transcriptomic Profiling Identifies Differential Gene expression Signatures between Inflammatory and Non-inflammatory Aortic Aneurysms
 =========================
 
-DOI : TBD
+DOI: 10.1002/art.42138
 
 Authors: Benjamin Hur, Matthew J. Koster, Jin Sung Jang, Cornelia M. Weyand, Kenneth J. Warrington, and Jaeyun Sung
 
@@ -54,4 +54,4 @@ log2-transformed TPM values of 50 samples and 26,475 genes with RSEM
 
 >data/tpm_profile.log2.tsv
 
-Raw data (.fastq) files will be available once the manuscript has been accepted for publication.
+Raw data (.fastq) files are available upon request (sung.jaeyun@mayo.edu)
